@@ -12,7 +12,9 @@
 - javascript
 
 ## Current Projects
-- [Project name](link) — short description
+- Hellow world
+- https://github.com/gatiyaruth03-prog/hellow-world.git
+- It shows all the basic functions in GitHub and how to execute them in real time: creating repositories, editing, and merging them
 
 ## How to Reach Me
 - Email: gatiyaruth03@gmail.com
